@@ -125,6 +125,7 @@ All changes included in 1.8:
 ## Languages
 
 - ([#13098](https://github.com/quarto-dev/quarto-cli/pull/13098)): Fox a minor inappropriate phrasing in the Chinese localization of `environment-proof-title` (@sun123xyz).
+- ([#13207](https://github.com/quarto-dev/quarto-cli/pull/13207)): Small corrections to the spanish translation file to make it feel more natural.
 
 ## Other fixes and improvements
 
